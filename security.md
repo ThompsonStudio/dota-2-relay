@@ -192,4 +192,4 @@ between them without re-tuning every value.
 
 ---
 
-*dota-2-relay · Updated 2026-10-25 · Shared under the MIT License*
+*dota-2-relay · Updated 2026-10-26 · Shared under the MIT License*
